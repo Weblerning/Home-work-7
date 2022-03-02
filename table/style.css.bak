@@ -1,0 +1,18 @@
+body {
+	margin:0;
+	background-color:#9980FA;
+	color:#ffffff;
+	
+	
+}
+table {
+	border: solid #d97474 8px;
+	text-align:center;
+	margin: auto;
+	font-size:18px;
+}
+.name {
+	color:#9743bd;
+	text-align:center;
+	background-color: #F2A5B0;
+}
